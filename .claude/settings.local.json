@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"C:\\\\Users\\\\varsh\\\\PycharmProjects\\\\greencorridor\\\\code.html\")",
+      "Bash(powershell.exe -Command \"Start-Process 'http://localhost:8080/code.html'\")"
+    ]
+  }
+}
